@@ -11,6 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "chagne from local" << endl;
+	cout << "change from local" << endl;
 	return 0;
 }
