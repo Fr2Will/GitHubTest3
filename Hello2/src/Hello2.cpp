@@ -14,5 +14,6 @@ int main() {
 	cout << "change from local" << endl;
 	cout << "locallocal" << endl;
 	cout << "remoteremote" << endl;
+	cout << "remote2" << endl;
 	return 0;
 }
